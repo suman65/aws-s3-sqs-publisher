@@ -1,0 +1,9 @@
+
+aws:
+  accesskey: AKIAIZJKZQ5RWNYX5SBA
+  secretaccesskey: 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
+  
+task:
+  queue:
+    endpoint: sqs.ap-south-1.amazonaws.com
+    name: task-queue
